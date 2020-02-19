@@ -1,9 +1,9 @@
 # 時空間統計モデルの輪読会
-### 教科書
+## 教科書
 [Spatio-Temporal Statistics with R (Christopher K. Wikle, Andrew Zammit-Mangion, and Noel Cressie)](https://spacetimewithr.org)  
 上記のリンク先から，PDF版がフリーでダウンロードできます
 
-### 担当
+## 担当
 1 秋田 (2019.02.20)
 2.1-2.3 市野川 (2019.04.05)  
 2.4-2.5 金森 (2019.04.05)  
